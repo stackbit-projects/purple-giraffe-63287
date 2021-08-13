@@ -5,7 +5,7 @@ sections:
     type: section_hero
     image: images/hero.png
     image_alt: App preview
-    title: We are Exon.
+    title: "We are Exon.\_ \_ \_ \_ \_ \_ \_ \_ Working to Innovate!"
     content: >-
       Azimuth is the perfect theme for developers, designers and entrepreneurs
       who need a sleek, modern SaaS site.
